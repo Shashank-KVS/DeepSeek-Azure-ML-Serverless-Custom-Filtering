@@ -12,7 +12,7 @@ This repository provides a structured pipeline for deploying and managing the De
 ## 📖 Includes: Jupyter Notebook for step-by-step execution + Python script for automated processing.
 
 
-## 💡 Keywords: DeepSeek AI, Azure ML Model Catalog, Serverless AI Deployment, Custom Filtering, AI Model Hosting.
+## 💡 Keywords: #### DeepSeek AI, Azure ML Model Catalog, Serverless AI Deployment, Custom Filtering, AI Model Hosting.
 
 ## 📂 Repository Structure
 
