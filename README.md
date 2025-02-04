@@ -32,10 +32,10 @@ pip install -r requirements.txt
 
 ## 📊 DeepSeek AI Model Deployment Process
 
-#### 1️⃣ Initialize Azure ML Model – Deploy the DeepSeek AI model from Azure Model Catalog.
-#### 2️⃣ Configure API Calls – Connect the model to serverless compute and retrieve real-time responses.
-#### 3️⃣ Apply Custom Filters – Modify the AI-generated text to fit application needs.
-#### 4️⃣ Stream Model Responses – Process large outputs without waiting for full completion.
+##### 1️⃣ Initialize Azure ML Model – Deploy the DeepSeek AI model from Azure Model Catalog.
+##### 2️⃣ Configure API Calls – Connect the model to serverless compute and retrieve real-time responses.
+##### 3️⃣ Apply Custom Filters – Modify the AI-generated text to fit application needs.
+##### 4️⃣ Stream Model Responses – Process large outputs without waiting for full completion.
 
 ## 🏗 Dependencies
 
