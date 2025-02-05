@@ -18,7 +18,7 @@ DeepSeek AI, Azure ML Model Catalog, Serverless AI Deployment, Custom Filtering,
 
 ### 📂 Repository Structure
 
-- `model.ipynb` – Jupyter Notebook for deploying and managing DeepSeek AI on Azure ML.
+- `DeepSeek-Azure-ML-Custom-Content-Filtering.ipynb` – Jupyter Notebook for deploying and managing DeepSeek AI on Azure ML.
 - `requirements.txt` – Dependencies required to run the notebook in a custom environment.
 - `.gitignore` – Prevents sensitive data and unnecessary files from being committed.
 
@@ -27,7 +27,7 @@ DeepSeek AI, Azure ML Model Catalog, Serverless AI Deployment, Custom Filtering,
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB/DeepSeek-Azure-ML-Serverless-Deployment.git
+git clone https://github.com/Shashank-KVS/DeepSeek-Azure-ML-Serverless-Deployment.git
 cd DeepSeek-Azure-ML-Serverless-Deployment
 pip install -r requirements.txt
 ```
